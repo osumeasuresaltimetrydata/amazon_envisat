@@ -1,2 +1,2 @@
 # amazon_envisat
-# retrieved envisat data over amazon river
+# retrieved envisat altimetry data over amazon river
